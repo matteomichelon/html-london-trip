@@ -1,7 +1,7 @@
 {
   "name": "html-london-trip",
   "version": "1.0.0",
-  "description": "",
+  "description": "Primo esercizio html classe #31 Boolean, replica di una pagina scritta in html che riguarda un viaggio verso Londra ",
   "main": "index.html",
   "scripts": {
     "start": "serve",
